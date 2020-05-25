@@ -1,0 +1,45 @@
+let ad1 = [
+    {
+        bgimg:'/image/home/ad1/1.png',
+        src:'/image/home/ad1/2.webp',
+        title:'牛奶恋人',
+        desc:'更香醇的呵护'
+    },
+    {
+        bgimg:'/image/home/ad1/3.png',
+        src:'/image/home/ad1/4.webp',
+        title:'宝宝营养师',
+        desc:'强身健体优选'
+    },
+    {
+        bgimg:'/image/home/ad1/5.png',
+        src:'/image/home/ad1/6.webp',
+        title:'养生达人',
+        desc:'健康每一天'
+    },
+    {
+        bgimg:'/image/home/ad1/7.png',
+        src:'/image/home/ad1/8.webp',
+        title:'纸之恋人',
+        desc:'亲密接触陪伴'
+    },
+    {
+        bgimg:'/image/home/ad1/9.png',
+        src:'/image/home/ad1/10.jpg',
+        title:'养生达人',
+        desc:'健康每一天'
+    },
+    {
+        bgimg:'/image/home/ad1/11.png',
+        src:'/image/home/ad1/12.jpg',
+        title:'显示器榜',
+        desc:'清晰的美 从此开始'
+    },
+    {
+        bgimg:'/image/home/ad1/13.png',
+        src:'/image/home/ad1/14.jpg',
+        title:'精致女鞋榜',
+        desc:'今日热销爆款'
+    },
+];
+export {ad1};
